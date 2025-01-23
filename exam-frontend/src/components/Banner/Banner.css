@@ -1,0 +1,39 @@
+.banner{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 60px;
+    height: 100vh;
+    flex-wrap: wrap;
+}
+
+.banner-img img{
+    width: 700px;
+    height: 100%;
+}
+
+.banner-text{
+    font-size: 30px;
+    text-align: center;
+}
+
+.banner-btn{
+    display: flex;
+    gap: 5px;
+    padding: 0 auto;
+}
+
+.btn1{
+    width: 120px;
+    height: 40px;
+    background-color: white;
+    color: #207DFF;
+    border: 1px solid #207DFF;
+}
+.btn2{
+    width: 120px;
+    height: 40px;
+    background-color: #207DFF;
+    color: white;
+    border: 1px solid white;
+}

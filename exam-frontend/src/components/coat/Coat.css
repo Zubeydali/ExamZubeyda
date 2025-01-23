@@ -1,0 +1,38 @@
+.coat{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 200px;
+    height: 100vh;
+    flex-wrap: wrap;
+}
+
+.coat-img img{
+    width: 500px;
+    height: 750px;
+}
+
+.coat-text{
+    font-size: 30px;
+    text-align: center;
+}
+.coat-text p{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+
+.coat-btn{
+    display: flex;
+    gap: 5px;
+    padding: 0 auto;
+    padding-left: 30%;
+}
+
+button{
+    width: 120px;
+    height: 40px;
+    background-color: rgb(10, 10, 10);
+    color: #ffffff;
+    font-size: 20px;
+}

@@ -1,0 +1,12 @@
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    height: 800px;
+}
+.card{
+   height: 500px;
+}
+
+input{
+    width: 200px;
+}

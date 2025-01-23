@@ -1,0 +1,48 @@
+ {
+    
+        "product":[
+            {
+                "id": 1,
+                 "image":"https://preview.colorlib.com/theme/dealers/#",
+                "title": "the shoe",
+                "description":"summer collection",
+                "title": "$9.50"
+            },
+            {
+                "id": 2,
+                 "image":"https://preview.colorlib.com/theme/dealers/#",
+                "title": "Marc Jacobs",
+                "description":"summer collection",
+                "title": "$9.50"
+            },
+            {
+                "id": 2,
+                 "image":"https://preview.colorlib.com/theme/dealers/#",
+                "title": "the belt",
+                "description":"summer collection",
+                "title": "$9.50"
+            },
+            {
+                "id": 1,
+                 "image":"https://preview.colorlib.com/theme/dealers/#",
+                "title": "the shoe",
+                "description":"summer collection",
+                "title": "$9.50"
+            },
+            {
+                "id": 2,
+                 "image":"https://preview.colorlib.com/theme/dealers/#",
+                "title": "Marc Jacobs",
+                "description":"summer collection",
+                "title": "$9.50"
+            },
+            {
+                "id": 2,
+                 "image":"https://preview.colorlib.com/theme/dealers/#",
+                "title": "the belt",
+                "description":"summer collection",
+                "title": "$9.50"
+            }
+        ]
+        
+    }
